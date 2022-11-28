@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>My Blog</h1>
+    <br>
+    <h2>My Blog Post 1</h2>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. 
+    Magni optio, quasi harum quam, fuga fugit animi ea aliquid quibusdam alias dolores. 
+    Voluptas quis sed architecto itaque facilis aspernatur dolorum facere dicta, nulla exercitationem nam, 
+    sit autem laudantium iste beatae! Corporis animi rem fuga in non maxime consectetur molestiae cupiditate doloribus ullam perferendis, 
+    eum iste dolor atque id nesciunt, excepturi ducimus! Soluta aspernatur dolor rerum veniam a dolores iure quidem distinctio alias deserunt ratione placeat corporis, 
+    totam blanditiis saepe velit! Rerum commodi repudiandae molestias autem illo accusantium, incidunt totam? 
+    Dicta iure culpa perferendis possimus voluptatum rem pariatur necessitatibus totam earum blanditiis voluptas eos ab, 
+    sunt delectus alias vel. Perspiciatis maxime enim, fugit, sint delectus quos quae inventore quas pariatur consequuntur dolorum harum quaerat officia facere reprehenderit! 
+    Fugiat cupiditate delectus doloremque, rem, laudantium obcaecati qui temporibus placeat minima illo quod neque, natus saepe dignissimos. 
+    Iure deserunt pariatur dicta enim dolorem quidem aut.</p>
+    <h2>My Blog Post 2</h2>
+    <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. 
+    Ut voluptate facere praesentium tenetur odio est sapiente quidem enim quibusdam doloremque incidunt magni distinctio blanditiis dolorum repellat quasi eaque velit laborum, 
+    sequi exercitationem maiores dolorem, ullam id repudiandae? Maiores exercitationem dolor adipisci molestias accusamus, 
+    maxime eos beatae sunt enim culpa blanditiis accusantium quisquam omnis esse, eum, nobis obcaecati ipsum vero tempora voluptate harum? 
+    Consequuntur assumenda minus beatae autem placeat omnis ab, nisi quidem dolorum pariatur illo magni recusandae ipsa itaque cumque earum debitis quisquam, 
+    quas, voluptas corporis! Delectus sequi voluptates possimus nam neque, labore, placeat, ut provident cupiditate dolores officiis quia similique eos accusamus beatae ipsa tempore tenetur? 
+    Quam similique veniam dignissimos voluptas enim quo nam laborum possimus eveniet officia non itaque at eius, 
+    necessitatibus asperiores obcaecati odio fugit reprehenderit iusto sit labore nisi suscipit. 
+    Voluptates, debitis consectetur? Omnis ex quod autem laborum consequuntur praesentium a, animi sed nostrum corrupti. Numquam.</p>
+</body>
+</html>
