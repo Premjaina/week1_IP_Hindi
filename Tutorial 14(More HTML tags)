@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>some more tags</title>
+</head>
+<body>
+    <p> <strong>Software engineering</strong>  is a detailed study of engineering to the design, development and maintenance of software. 
+        Software engineering was introduced to address the issues of <em>low-quality</em> software projects. 
+        Problems arise when a software generally exceeds timelines, budgets, and reduced levels of quality. 
+        It ensures that the application is built consistently, correctly, on time and on budget and within requirements. 
+        The demand of software engineering also emerged to cater to the immense rate of change in user requirements and environment on which application <sub>or</sub> websites is supposed to be working.</p>
+</body>
+</html>
