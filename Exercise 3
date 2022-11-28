@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HTML Forms</title>
+</head>
+<body>
+    <h1>Sign Up Form</h1>
+    <form>
+        <label for="username"> </label>
+        <input type="text" id="username" placeholder="First Name">
+        <br>
+        <br>
+        <label for="username"> </label>
+        <input type="text" id="username" placeholder="Last Name">
+        <br>
+        <br>
+        <label for="email"> </label>
+        <input type="email" id="email" placeholder="Email">
+        <br>
+        <br>
+        <label for="password"> </label>
+        <input type="password" id="password" placeholder="Password">
+        <br>
+        <p>Select Gender</p>
+        <label for="male">Male</label>
+        <input type="radio" name="gender" id="male" value="Male">
+        <br>
+        <label for="female">Female</label>
+        <input type="radio" name="gender" id="female" value="Female">
+        <br>
+        <label for="other">Other</label>
+        <input type="radio" name="gender" id="other" value="Other">
+        <br>
+        <br>
+        <label for="Country">Country</label>
+        <select name="" id="Country">
+            <option value="India">India</option>
+            <option value="Nepal">Nepal</option>
+            <option value="Europe">Europe</option>
+            <option value="Spain">Spain</option>
+        </select>
+        <br>
+        <p>Write about yourself below</p>
+        <textarea name="" id="" cols="30" rows="10" placeholder="type here"></textarea>
+        <br>
+        <input type="submit" value="submit"
+    </form>
+
+</body>
+</html>
