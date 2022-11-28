@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Div and span</title>
+    <style>
+        .container1{
+            background-color: black;
+            color: aliceblue;
+        }
+        .container2{
+            background-color: aliceblue;
+            color: black;
+        }
+        .cls{
+            color: green;
+            background-color: bisque;
+        }
+
+
+    </style>
+</head>
+<body>
+    <div class="container1">
+        <h2>heading</h2>
+        <ul>
+            <li>list item</li>
+            <li>list item</li>
+            <li>list item</li>
+            <li>list item</li>
+            <li>list item</li>
+            <li>list item</li>
+            <li>list item</li>
+            <li>list item</li>
+        </ul>
+    </div>
+    <div class="container2"><h2>heading <span class="cls">two</span></h2>
+        <img src="./lpu.jpg" alt="image not found"<br>
+        <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. 
+        Consequuntur sunt esse, ullam rerum blanditiis excepturi aspernatur aliquid adipisci molestiae eveniet.</p></div>    
+</body>
+</html>
