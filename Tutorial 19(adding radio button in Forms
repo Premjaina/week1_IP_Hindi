@@ -30,7 +30,7 @@
         <label for="other">Other</label>
         <input type="radio" name="gender" id="other" value="Other">
         <br><br>
-        <input type="submit" value="sign in"
+        <input type="submit" value="submit"
     </form>
 
 </body>
